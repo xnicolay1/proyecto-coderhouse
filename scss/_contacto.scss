@@ -1,0 +1,43 @@
+label, legend {
+    display: block;
+    font-family: 'barlow-reg';
+    margin: 10px 10px;  
+}
+
+textarea, input, select {
+    color: #cccccc;
+    display: block;
+    font-family: 'barlow-reg';
+    margin: 10px 10px;
+    margin-right: auto;  
+    margin-left: auto;
+    padding: 5px;
+    text-align: center;
+    width: 400px; 
+}
+
+input[type='checkbox']{
+    display: inline-block;
+    width: 20px;
+}
+
+
+
+.my-check-box{
+    color: #f8ececf3;
+}
+
+.recibir {
+    display: inline-block;
+}
+
+input[type='reset'],
+input[type='submit']{
+    background-color: #f8ececf3;
+    color: rgb(19, 18, 18);
+    display: inline-block;
+    font-size: 12px;
+    font-weight: bold;
+    padding:10px;
+    width: 200px;    
+}

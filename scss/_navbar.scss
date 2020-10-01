@@ -1,0 +1,19 @@
+.menu_enlaces >   a {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(26,26,26),rgb(26,26,26));
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+    background-size: 0 3px;
+    transition: background-size .3s;
+    
+}
+
+.menu_enlaces  >  a:hover, div a:focus {
+    background-size: 100% 3px;
+    color:white;
+}
+
+.bg-brown {
+    background-color: $my-brown;
+}
+
