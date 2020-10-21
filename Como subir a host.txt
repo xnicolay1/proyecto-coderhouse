@@ -1,0 +1,4 @@
+Usando firebase.
+Primero tener en cuenta archivo
+firebaseerc (dentro guarda la ruta de donde va a guardar del proyecto) -en el caso que no pregunte en cmder-
+modificar la ruta donde quiere guardarlo, luego seguir los pasos.
